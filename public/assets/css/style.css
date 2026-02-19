@@ -4443,7 +4443,10 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
     height: 150px;
     width: 150px;
     z-index: -1;
-    background: url(../images/process-mask.png) no-repeat;
+    background-color: var(--primary);
+    /* -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%; */
     border-radius: 50%;
     content: "";
     position: absolute;
