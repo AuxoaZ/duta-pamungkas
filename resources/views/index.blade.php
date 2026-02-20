@@ -7,6 +7,7 @@
 @section('meta_keywords', 'jasa logistik, pengiriman cepat, pengiriman aman, pengiriman tepat waktu, logistik Yogyakarta, solusi logistik, jasa pengiriman, distribusi cepat')
 
 @section('content')
+    @include('sections.navbar')
     @include('sections.hero')
     @include('sections.about')
     @include('sections.whyUs')
@@ -15,4 +16,5 @@
     @include('sections.process')
     @include('sections.review')
     @include('sections.faq')
+    @include('sections.footer')
 @endsection
