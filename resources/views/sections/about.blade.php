@@ -1,6 +1,5 @@
-    <section
-      class="about-sec3 sec-padding bg-cover"
-      style="background-image: url(&quot;{{ asset('assets/images/about-bg.jpg') }}&quot;)"
+    <section id="about"
+      class="about-sec3 sec-padding bg-white"
     >
       <div class="container">
         <div class="row">
@@ -59,62 +58,14 @@
                     d="M17.5 15.429h-4.375a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909.62.62 0 0 1 .442-.188H17l2.84-12.857H5.625a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909A.62.62 0 0 1 5.625 0h15a.61.61 0 0 1 .488.241.65.65 0 0 1 .122.543L18.11 14.927a.65.65 0 0 1-.22.36.6.6 0 0 1-.39.142"
                   />
                 </svg>
-                About Our Company</span
+                About Us</span
               >
               <h2 class="sec-title">
-                Layanan kami meningkatkan produktivitas kerja Anda
+                Solusi Logistik Terpercaya
               </h2>
               <p>
-                Keahlian logistik global kami, teknologi rantai pasokan canggih,
-                dan solusi logistik yang disesuaikan akan membantu Anda
-                menganalisis, mengembangkan, dan menerapkan solusi logistik yang
-                sukses.
+                  Kami adalah perusahaan logistik yang berkomitmen memberikan solusi pengiriman yang cepat, aman, dan terpercaya. Didukung oleh jaringan distribusi yang luas serta tim profesional berpengalaman, kami melayani kebutuhan pengiriman darat, laut, dan udara ke berbagai wilayah di Indonesia.
               </p>
-
-              <!-- <ul class="nav nav-tabs" id="myTab" role="tablist">
-                <li class="nav-item" role="presentation">
-                  <button
-                    class="nav-link active"
-                    id="mission-tab"
-                    data-bs-toggle="tab"
-                    data-bs-target="#mission"
-                    type="button"
-                    role="tab"
-                    aria-controls="mission"
-                    aria-selected="true"
-                  >
-                    Our Mission
-                  </button>
-                </li>
-                <li class="nav-item" role="presentation">
-                  <button
-                    class="nav-link"
-                    id="vission-tab"
-                    data-bs-toggle="tab"
-                    data-bs-target="#vission"
-                    type="button"
-                    role="tab"
-                    aria-controls="vission"
-                    aria-selected="false"
-                  >
-                    Our Vission
-                  </button>
-                </li>
-                <li class="nav-item" role="presentation">
-                  <button
-                    class="nav-link"
-                    id="history-tab"
-                    data-bs-toggle="tab"
-                    data-bs-target="#history"
-                    type="button"
-                    role="tab"
-                    aria-controls="history"
-                    aria-selected="false"
-                  >
-                    Our History
-                  </button>
-                </li>
-              </ul> -->
               <div class="tab-content" id="myTabContent">
                 <div
                   class="tab-pane fade show active"
@@ -128,16 +79,12 @@
                     </div>
                     <div class="tab-txt">
                       <p>
-                          Duta Pamungkas Logistik adalah perusahaan Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem ipsa sint enim ab eius voluptate rem maiores eos harum aliquid?.
+                          Dengan layanan Free Pickup, perlindungan asuransi, dan dukungan pelanggan 24/7, kami memastikan setiap proses pengiriman berjalan efisien dan tepat waktu. Kepuasan dan kepercayaan pelanggan adalah prioritas utama kami dalam setiap layanan yang diberikan.
                       </p>
                     </div>
                   </div>
-                  <h3 class="display-6">
-                    We specialize in delivering strategic guidance, project
-                    development support,
-                  </h3>
                 </div>
-                <div
+                <!-- <div
                   class="tab-pane fade"
                   id="vission"
                   role="tabpanel"
@@ -190,24 +137,19 @@
                     We specialize in delivering strategic guidance, project
                     development support,
                   </h3>
-                </div>
+                </div> -->
               </div>
               <!-- tab content end -->
               <div class="d-sm-flex align-items-center about-cta gap-5 mt-5">
-                <a href="about.html" class="btn btn-primary"
-                  >About Us <i class="fa fa-arrow-right"></i><span></span>
-                </a>
+                                <a
+                                    href="https://api.whatsapp.com/send?phone=6285138568164"
+                                    class="btn btn-primary btn-hover"
+                                >
+                                    Hubungi Kami
+                                    <i class="fa-solid fa-arrow-right"></i>
 
-                <div class="quick-call d-flex align-items-center">
-                  <span class="bg-dark icon-lg rounded-circle text-info"
-                    ><i class="fa-solid fa-phone-volume"></i
-                  ></span>
-                  <div class="conn-txt ms-3">
-                    <p class="m-0">Hubungi kami:</p>
-                    <a class="h6 text-primary" href="tel:148359505285"
-                      >0813-2776-8170</a
-                    >
-                  </div>
+                                    <span></span>
+                                </a>
                 </div>
               </div>
             </div>

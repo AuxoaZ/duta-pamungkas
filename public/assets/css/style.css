@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .u-wrapper {
     position: relative;
     width: 85px;
@@ -916,8 +920,8 @@ ul.ct-list li:before {
 }
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #eab308;
-    border-color: #eab308;
+    background-color: #059669;
+    border-color: #059669;
     color: #fff;
 }
 .btn-info {
@@ -2686,7 +2690,7 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
 
 /*! footer */
 .footer {
-    padding-top: 120px;
+    /* padding-top: 120px; */
     overflow: hidden;
 }
 .footer .parallax-overly {
@@ -3933,7 +3937,7 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
     }
 }
 .about-sec3:before {
-    background: var(--light);
+    background: var(--white);
     opacity: 0.85;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
     filter: alpha(opacity=85);
@@ -6422,6 +6426,9 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
 }
 .solution-wrap {
     flex-wrap: wrap;
+}
+.solution-card {
+    background-image: url(../images/solution-bg.png);
 }
 .solution-wrap .solution-card {
     width: 50%;
