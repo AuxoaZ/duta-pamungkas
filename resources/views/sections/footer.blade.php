@@ -27,7 +27,8 @@
                     <div class="f-logo">
                         <a href="index.html"
                             ><img
-                                src="{{ asset('assets/images/logo-w.svg') }}"
+                                src="https://www.dpat-cargo.com/frontend/assets/img/logonobg.png"
+                                width="200px"
                                 alt="Logo"
                         /></a>
                     </div>
@@ -46,7 +47,7 @@
                 <div class="footer-widget">
                     <h3 class="widget-title">Tautan</h3>
                     <ul>
-                        <li><a href="#">Gome</a></li>
+                        <li><a href="#">Beranda</a></li>
                         <li><a href="#service">Layanan</a></li>
                         <li><a href="#about">Tentang</a></li>
                         <li><a href="#faq">FAQ's</a></li>

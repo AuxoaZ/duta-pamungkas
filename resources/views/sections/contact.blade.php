@@ -25,7 +25,7 @@
                         d="M17.5 15.429h-4.375a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909.62.62 0 0 1 .442-.188H17l2.84-12.857H5.625a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909A.62.62 0 0 1 5.625 0h15a.61.61 0 0 1 .488.241.65.65 0 0 1 .122.543L18.11 14.927a.65.65 0 0 1-.22.36.6.6 0 0 1-.39.142"
                     />
                 </svg>
-                Contact Us</span
+                Kontak kami</span
             >
             <h2 class="sec-title">Hubungi Kami</h2>
             <p class="mt-3">
@@ -64,7 +64,7 @@
                             >Jam Operasional</small
                         >
                         <p class="mb-0 fw-medium">
-                            Senin – Jumat : 09.00 – 23.00 <br />
+                            Senin – Sabtu : 09.00 – 23.00 <br />
                         </p>
                     </div>
                 </div>

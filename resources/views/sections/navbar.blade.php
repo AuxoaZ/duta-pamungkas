@@ -72,7 +72,7 @@
                                             class="nav-link"
                                             href="#"
                                             role="button"
-                                            >Home</a
+                                            >Beranda</a
                                         >
                                     </li>
                                     <li class="nav-item">

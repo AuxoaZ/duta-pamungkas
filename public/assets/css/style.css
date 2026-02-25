@@ -14,7 +14,7 @@ html {
 .icon-box {
     width: 65px;
     height: 65px;
-    background: #059669;
+    background: #047857;
     border-radius: 9px;
     display: flex;
     align-items: center;
@@ -36,9 +36,9 @@ html {
     left: 0;
     right: 0;
     height: 35px;
-    border-left: 2px solid #059669;
-    border-right: 2px solid #059669;
-    border-bottom: 2px solid #059669;
+    border-left: 2px solid #047857;
+    border-right: 2px solid #047857;
+    border-bottom: 2px solid #047857;
     border-radius: 0 0 11px 11px;
 }
 
@@ -61,10 +61,10 @@ html {
     --font-family-headings: "Rethink Sans", sans-serif;
     --font-family-btn: "DM Sans", sans-serif;
     --bs-border-color: #d8dde1;
-    --font-size-base: 16px;
+    --font-size-base: 18px;
     --font-weight-base: 400;
     --line-height-base: 26px;
-    --primary: #059669;
+    --primary: #047857;
     --primary-rgb: 5, 150, 105;
     --white: #fff;
     --white-rgb: 255, 255, 255;
@@ -86,10 +86,10 @@ html {
 
 /*! mixins */
 .text-primary {
-    color: #059669 !important;
+    color: #047857 !important;
 }
 .text-secondary {
-    color: #059669 !important;
+    color: #047857 !important;
 }
 .text-tertiary {
     color: #122f2a !important;
@@ -827,7 +827,7 @@ ul.ct-list li:before {
     border-color: var(--primary);
 }
 .bg-primary {
-    background-color: #059669 !important;
+    background-color: #047857 !important;
 }
 .bg-tertiary {
     background-color: #122f2a !important;
@@ -836,8 +836,8 @@ ul.ct-list li:before {
     background-color: #f7f7f7 !important;
 }
 .btn-secondary {
-    background-color: #059669;
-    border-color: #059669;
+    background-color: #047857;
+    border-color: #047857;
     color: #fff;
 }
 .btn-secondary:focus,
@@ -847,7 +847,7 @@ ul.ct-list li:before {
     color: #fff;
 }
 .bg-secondary {
-    background-color: #059669 !important;
+    background-color: #047857 !important;
 }
 .bg-shade {
     background-color: #ecf0f1 !important;
@@ -914,14 +914,14 @@ ul.ct-list li:before {
     background-color: var(--white);
 }
 .btn-primary {
-    background-color: #059669;
-    border-color: #059669;
+    background-color: #047857;
+    border-color: #047857;
     color: #fff;
 }
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #059669;
-    border-color: #059669;
+    background-color: #047857;
+    border-color: #047857;
     color: #fff;
 }
 .btn-info {
@@ -1111,7 +1111,7 @@ ul.ct-list li:before {
     visibility: hidden;
     transform: translateY(2.8125rem);
     transition: all 0.3s linear;
-    background-color: #059669;
+    background-color: #047857;
     box-shadow: 0 0.3125rem 0.9375rem rgba(0, 0, 0, 0.14);
 }
 .scroll-top,
@@ -3927,7 +3927,7 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
     top: 52px;
     width: 40px;
     height: 34px;
-    background: linear-gradient(163deg, #059669, #5a0306);
+    background: linear-gradient(163deg, #047857, #5a0306);
     -webkit-clip-path: polygon(100% 0, 0 0, 100% 100%);
     clip-path: polygon(100% 0, 0 0, 100% 100%);
 }
@@ -4242,9 +4242,8 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
 .service-entry .serv-txt {
     position: absolute;
     bottom: 0;
-    height: 100px;
     padding: 20px;
-    height: 115px;
+    height: 140px;
     width: calc(100% - 15px);
     transition: height 0.5s ease;
 }
@@ -4276,7 +4275,7 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
         opacity 0.1s ease;
 }
 .service-entry:hover .serv-txt {
-    height: 228px;
+    height: 300px;
 }
 .service-entry:hover .serv-txt:before {
     height: 100%;

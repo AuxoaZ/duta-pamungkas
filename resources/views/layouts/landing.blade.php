@@ -78,11 +78,13 @@
         <main>@yield('content')</main>
 
         <!-- Scroll Top -->
-        <div class="scroll-top">
-            <svg height="100%" viewBox="-1 -1 102 102" width="100%">
-                <path></path>
-            </svg>
-        </div>
+        <a href="https://api.whatsapp.com/send?phone=6285138568164">
+            <div class="scroll-top">
+                <svg height="100%" viewBox="-1 -1 102 102" width="100%">
+                    <path></path>
+                </svg>
+            </div>
+        </a>
 
         <!--Javascript
 ========================================================-->

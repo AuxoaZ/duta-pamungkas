@@ -22,7 +22,7 @@
                         d="M17.5 15.429h-4.375a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909.62.62 0 0 1 .442-.188H17l2.84-12.857H5.625a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909A.62.62 0 0 1 5.625 0h15a.61.61 0 0 1 .488.241.65.65 0 0 1 .122.543L18.11 14.927a.65.65 0 0 1-.22.36.6.6 0 0 1-.39.142"
                     />
                 </svg>
-                What Our Clients Say</span
+                testimoni</span
             >
             <h2 class="sec-title">Dipercaya oleh Banyak Pelanggan</h2>
         </div>
@@ -36,12 +36,9 @@
                                     class="rev-content position-relative bg-white rounded-4"
                                 >
                                     <p>
-                                        "The transport company provides reliable
-                                        service and delivers on time. Vehicles
-                                        are well maintained and staff behavior
-                                        is professional. A good
-                                        experience.Customer support is helpful,
-                                        though response time faster."
+                                        " DPAT-Cargo banyak memberikan kemudahan
+                                        dari cashback, di mana itu sangat
+                                        membantu Kita sebagai online shop. "
                                     </p>
                                     <div class="ratings">
                                         <a href="#"
@@ -76,19 +73,17 @@
                                 <div
                                     class="rev-author d-flex align-items-center"
                                 >
-                                    <div class="author-thumb icon me-3">
+                                    <!-- <div class="author-thumb icon me-3">
                                         <img
                                             src="{{
                                                 asset('assets/images/rv1.png')
                                             }}"
                                             alt=""
                                         />
-                                    </div>
+                                    </div> -->
                                     <div class="author-info">
-                                        <h3 class="mb-0 display-5">
-                                            Sarah Williams
-                                        </h3>
-                                        <span>Marketing Manager</span>
+                                        <h3 class="mb-0 display-5">Tiwi</h3>
+                                        <span>CEO Gamping Square</span>
                                     </div>
                                 </div>
                             </div>
@@ -100,12 +95,8 @@
                                     class="rev-content position-relative bg-white rounded-4"
                                 >
                                     <p>
-                                        "Good transport company with safe
-                                        handling of goods and timely delivery.
-                                        Vehicles are well maintained and staff
-                                        behavior is professional. They were
-                                        incredibly helpful and a available to
-                                        answer my questions."
+                                        " Banyak sekali kemudahan dan supportnya
+                                        full banget ke online shop. "
                                     </p>
                                     <div class="ratings">
                                         <a href="#"
@@ -140,19 +131,17 @@
                                 <div
                                     class="rev-author d-flex align-items-center"
                                 >
-                                    <div class="author-thumb icon me-3">
+                                    <!-- <div class="author-thumb icon me-3">
                                         <img
                                             src="{{
                                                 asset('assets/images/aut2.png')
                                             }}"
                                             alt=""
                                         />
-                                    </div>
+                                    </div> -->
                                     <div class="author-info">
-                                        <h3 class="mb-0 display-5">
-                                            Bessie Cooper
-                                        </h3>
-                                        <span>Marketing Manager</span>
+                                        <h3 class="mb-0 display-5">Mas Adit</h3>
+                                        <span>Direktur Ekspedisi</span>
                                     </div>
                                 </div>
                             </div>
@@ -164,15 +153,12 @@
                                     class="rev-content position-relative bg-white rounded-4"
                                 >
                                     <p>
-                                        "I was initially hesitant about
-                                        switching jui logistics providers, but
-                                        Transhub customer support team made the
-                                        transition logistic seamless. They were
-                                        incredibly helpful and a available to
-                                        answer my questions."
+                                        "Kirim banyak lebih murah , bisa
+                                        borongan dan sewa mobil/truck"
                                     </p>
                                     <div class="ratings">
-                                        <a href="#"
+                                        <a
+                                            href="https://maps.app.goo.gl/MGzpdPV2eGpyV7cf7"
                                             ><i class="fa fa-star"></i
                                         ></a>
                                         <a href="#"
@@ -204,19 +190,140 @@
                                 <div
                                     class="rev-author d-flex align-items-center"
                                 >
-                                    <div class="author-thumb icon me-3">
+                                    <!-- <div class="author-thumb icon me-3">
                                         <img
                                             src="{{
                                                 asset('assets/images/aut3.png')
                                             }}"
                                             alt=""
                                         />
-                                    </div>
+                                    </div> -->
                                     <div class="author-info">
                                         <h3 class="mb-0 display-5">
-                                            Jacob Jones
+                                            Kevin Saputra
                                         </h3>
-                                        <span>Marketing Manager</span>
+                                        <span>Review dari Google Maps</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Slide Item End -->
+                        <div class="swiper-slide">
+                            <div class="review-entry">
+                                <div
+                                    class="rev-content position-relative bg-white rounded-4"
+                                >
+                                    <p>
+                                        "gilee surabaya cuman 1500/kg 2 hari
+                                        sampai 🤩"
+                                    </p>
+                                    <div class="ratings">
+                                        <a
+                                            href="https://maps.app.goo.gl/fNtJu4NHdRegQ5KX9"
+                                            ><i class="fa fa-star"></i
+                                        ></a>
+                                        <a href="#"
+                                            ><i class="fa fa-star"></i
+                                        ></a>
+                                        <a href="#"
+                                            ><i class="fa fa-star"></i
+                                        ></a>
+                                        <a href="#"
+                                            ><i class="fa fa-star"></i
+                                        ></a>
+                                        <a href="#"
+                                            ><i class="fa fa-star-half"></i
+                                        ></a>
+                                    </div>
+                                    <div
+                                        class="rev-icon icon bg-primary position-absolute"
+                                    >
+                                        <img
+                                            src="{{
+                                                asset(
+                                                    'assets/images/icons/quote-left.svg'
+                                                )
+                                            }}"
+                                            alt=""
+                                        />
+                                    </div>
+                                </div>
+                                <div
+                                    class="rev-author d-flex align-items-center"
+                                >
+                                    <!-- <div class="author-thumb icon me-3">
+                                        <img
+                                            src="{{
+                                                asset('assets/images/aut3.png')
+                                            }}"
+                                            alt=""
+                                        />
+                                    </div> -->
+                                    <div class="author-info">
+                                        <h3 class="mb-0 display-5">Bryan</h3>
+                                        <span>Review dari Google Maps</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Slide Item End -->
+                        <div class="swiper-slide">
+                            <div class="review-entry">
+                                <div
+                                    class="rev-content position-relative bg-white rounded-4"
+                                >
+                                    <p>
+                                        "rekomended ini mah buat pengusaha2
+                                        besar yg membutuhkan ekspedisi sperti
+                                        saya. team nya juga sat set. 👍👍"
+                                    </p>
+                                    <div class="ratings">
+                                        <a
+                                            href="https://maps.app.goo.gl/W2SPgyQhPTQEC55h7"
+                                            ><i class="fa fa-star"></i
+                                        ></a>
+                                        <a href="#"
+                                            ><i class="fa fa-star"></i
+                                        ></a>
+                                        <a href="#"
+                                            ><i class="fa fa-star"></i
+                                        ></a>
+                                        <a href="#"
+                                            ><i class="fa fa-star"></i
+                                        ></a>
+                                        <a href="#"
+                                            ><i class="fa fa-star-half"></i
+                                        ></a>
+                                    </div>
+                                    <div
+                                        class="rev-icon icon bg-primary position-absolute"
+                                    >
+                                        <img
+                                            src="{{
+                                                asset(
+                                                    'assets/images/icons/quote-left.svg'
+                                                )
+                                            }}"
+                                            alt=""
+                                        />
+                                    </div>
+                                </div>
+                                <div
+                                    class="rev-author d-flex align-items-center"
+                                >
+                                    <!-- <div class="author-thumb icon me-3">
+                                        <img
+                                            src="{{
+                                                asset('assets/images/aut3.png')
+                                            }}"
+                                            alt=""
+                                        />
+                                    </div> -->
+                                    <div class="author-info">
+                                        <h3 class="mb-0 display-5">
+                                            Denok Deblong
+                                        </h3>
+                                        <span>Review dari Google Maps</span>
                                     </div>
                                 </div>
                             </div>

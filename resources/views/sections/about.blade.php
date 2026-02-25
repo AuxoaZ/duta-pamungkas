@@ -17,8 +17,8 @@
                       class="purecounter"
                       data-purecounter-end="25"
                       data-purecounter-duration="0"
-                      >25</span
-                    >+ Years Experience
+                      >10</span
+                    >+ Tahun Pengalaman
                   </p>
                 </div>
               </div>
@@ -58,7 +58,7 @@
                     d="M17.5 15.429h-4.375a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909.62.62 0 0 1 .442-.188H17l2.84-12.857H5.625a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909A.62.62 0 0 1 5.625 0h15a.61.61 0 0 1 .488.241.65.65 0 0 1 .122.543L18.11 14.927a.65.65 0 0 1-.22.36.6.6 0 0 1-.39.142"
                   />
                 </svg>
-                About Us</span
+                Tentang kami</span
               >
               <h2 class="sec-title">
                 Solusi Logistik Terpercaya

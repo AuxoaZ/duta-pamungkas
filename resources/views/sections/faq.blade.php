@@ -39,7 +39,7 @@
                                 aria-expanded="false"
                                 aria-controls="collapseOne"
                             >
-                                How do I get in touch with customer support?
+                                Apakah barang harus saya antar sendiri?
                             </button>
                         </h2>
                         <div
@@ -50,11 +50,9 @@
                         >
                             <div class="accordion-body">
                                 <p>
-                                    Meeting project deadlines is a top priority.
-                                    We understand the importance of timely
-                                    delivery and have established a
-                                    comprehensive approach to ensure that all
-                                    projects are completed
+                                    Bisa diantar sendiri, atau jika terlalu
+                                    banyak silakan bisa request pickup, nanti
+                                    akan diambil oleh tim kami di lokasi anda.
                                 </p>
                             </div>
                         </div>
@@ -69,7 +67,7 @@
                                 aria-expanded="false"
                                 aria-controls="collapseTwo"
                             >
-                                How do I get in touch with customer support?
+                                Apakah pembayarannya harus selalu cash?
                             </button>
                         </h2>
                         <div
@@ -80,11 +78,9 @@
                         >
                             <div class="accordion-body">
                                 <p>
-                                    Meeting project deadlines is a top priority.
-                                    We understand the importance of timely
-                                    delivery and have established a
-                                    comprehensive approach to ensure that all
-                                    projects are completed
+                                    DPAT-Cargo menawarkan berbagai metode
+                                    pembayaran untuk mempermudah mitra/seller
+                                    dalam berkirim-kirim barang.
                                 </p>
                             </div>
                         </div>
@@ -99,7 +95,8 @@
                                 aria-expanded="false"
                                 aria-controls="collapseThree"
                             >
-                                What if my shipment is delayed or lost?
+                                Syarat apa saja yang perlu saya kumpulkan untuk
+                                menjadi mitra Duta Pamungkas Cargo?
                             </button>
                         </h2>
                         <div
@@ -110,11 +107,9 @@
                         >
                             <div class="accordion-body">
                                 <p>
-                                    Meeting project deadlines is a top priority.
-                                    We understand the importance of timely
-                                    delivery and have established a
-                                    comprehensive approach to ensure that all
-                                    projects are completed
+                                    Beberapa syarat sebagai bukti kerjasama
+                                    dengan kami yaitu Fotokopi KTP, dan
+                                    menyerahkan beberapa data pribadi dan toko.
                                 </p>
                             </div>
                         </div>
@@ -134,7 +129,8 @@
                                 aria-expanded="false"
                                 aria-controls="collapseFour"
                             >
-                                How do I get in touch with customer support?
+                                Apakah resi yang saya kirimkan melalui layanan
+                                DPAT-Cargo dapat dilacak?
                             </button>
                         </h2>
                         <div
@@ -145,11 +141,9 @@
                         >
                             <div class="accordion-body">
                                 <p>
-                                    Meeting project deadlines is a top priority.
-                                    We understand the importance of timely
-                                    delivery and have established a
-                                    comprehensive approach to ensure that all
-                                    projects are completed
+                                    Semua jenis resi yang menggunakan layanan
+                                    DPAT-Cargo dapat dilacak mulai dari saat
+                                    penyerahan barang anda di gudang kami.
                                 </p>
                             </div>
                         </div>

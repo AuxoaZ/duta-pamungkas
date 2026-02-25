@@ -22,7 +22,7 @@
                         d="M17.5 15.429h-4.375a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909.62.62 0 0 1 .442-.188H17l2.84-12.857H5.625a.62.62 0 0 1-.442-.189.65.65 0 0 1 0-.909A.62.62 0 0 1 5.625 0h15a.61.61 0 0 1 .488.241.65.65 0 0 1 .122.543L18.11 14.927a.65.65 0 0 1-.22.36.6.6 0 0 1-.39.142"
                     />
                 </svg>
-                Our Services</span
+                Layanan Kami</span
             >
             <h2 class="sec-title">Layanan Pengiriman Profesional</h2>
         </div>
@@ -44,11 +44,7 @@
                             <div
                                 class="d-flex align-items-center justify-content-between serv-title"
                             >
-                                <h3 class="display-4">
-                                    <a href="single-service.html"
-                                        >Pengiriman Darat</a
-                                    >
-                                </h3>
+                                <h3 class="display-4">Pengiriman Darat ></h3>
                                 <span
                                     ><i class="fa-solid fa-angles-right"></i
                                 ></span>
@@ -80,11 +76,7 @@
                             <div
                                 class="d-flex align-items-center justify-content-between serv-title"
                             >
-                                <h3 class="display-4">
-                                    <a href="single-service.html"
-                                        >Pengiriman Udara</a
-                                    >
-                                </h3>
+                                <h3 class="display-4">Pengiriman Udara ></h3>
                                 <span
                                     ><i class="fa-solid fa-angles-right"></i
                                 ></span>
@@ -115,11 +107,7 @@
                             <div
                                 class="d-flex align-items-center justify-content-between serv-title"
                             >
-                                <h3 class="display-4">
-                                    <a href="single-service.html"
-                                        >Pengiriman Laut</a
-                                    >
-                                </h3>
+                                <h3 class="display-4">Pengiriman Laut</h3>
                                 <span
                                     ><i class="fa-solid fa-angles-right"></i
                                 ></span>
@@ -127,9 +115,8 @@
                         </div>
                         <p>
                             Pengiriman laut menggunakan kapal untuk mengangkut
-                            barang melalui jalur laut. Metode ini cocok untuk
-                            pengiriman besar dan jarak jauh, terutama untuk
-                            perdagangan internasional.
+                            barang melalui jalur laut. Cocok untuk pengiriman
+                            besar dan perdagangan internasional.
                         </p>
                     </div>
                 </div>
