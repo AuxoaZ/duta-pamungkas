@@ -154,18 +154,19 @@
         ));
     (new Swiper(".hero-slider", {
         slidesPerView: 1,
-        autoplay: { delay: 4e3, disableOnInteraction: !1 },
+        autoplay: { delay: 5e3, disableOnInteraction: !1 },
         loop: !0,
         spaceBetween: 0,
-        effect: "creative",
-        speed: 1500,
-        creativeEffect: {
-            prev: { scale: 1, opacity: 0, translate: [0, 0, 0] },
-            next: { scale: 1.2, opacity: 0, translate: [0, 0, 0] },
-        },
+        effect: "fade",
+        fadeEffect: { crossFade: !0 },
+        speed: 1000,
         navigation: {
-            nextEl: ".swiper-button-next",
-            prevEl: ".swiper-button-prev",
+            nextEl: ".hero-slider-section .swiper-button-next",
+            prevEl: ".hero-slider-section .swiper-button-prev",
+        },
+        pagination: {
+            el: ".hero-slider-section .swiper-pagination",
+            clickable: !0,
         },
     }),
         new Swiper(".hero-slider2", {

@@ -55,39 +55,57 @@
                         <h2 class="sec-title">Keunggulan Layanan Kami</h2>
                     </div>
 
-                    <div
-                        class="solution-wrap d-flex align-items-center justify-content-between"
-                    >
+                    <div class="solution-wrap">
                         <div class="solution-card">
-                            <h3 class="display-4">Free Pickup</h3>
-                            <p>
-                                Penjemputan barang cepat dan gratis langsung
-                                dari lokasi
-                            </p>
+                            <div class="solution-card-icon">
+                                <i class="fa fa-truck"></i>
+                            </div>
+                            <div class="solution-card-body">
+                                <h3>Free Pickup</h3>
+                                <p>
+                                    Penjemputan barang cepat dan gratis langsung
+                                    dari lokasi Anda.
+                                </p>
+                            </div>
                         </div>
                         <!-- Card End -->
                         <div class="solution-card">
-                            <h3 class="display-4">Good Insurance</h3>
-                            <p>
-                                Setiap pengiriman dilindungi asuransi terpercaya
-                            </p>
-                        </div>
-                        <!-- Card End -->
-
-                        <div class="solution-card">
-                            <h3 class="display-4">Wide Coverage</h3>
-                            <p>
-                                Jaringan luas yang melayani pengiriman ke
-                                wilayah di seluruh Indonesia
-                            </p>
+                            <div class="solution-card-icon">
+                                <i class="fa fa-shield"></i>
+                            </div>
+                            <div class="solution-card-body">
+                                <h3>Good Insurance</h3>
+                                <p>
+                                    Setiap pengiriman dilindungi asuransi
+                                    terpercaya untuk keamanan barang.
+                                </p>
+                            </div>
                         </div>
                         <!-- Card End -->
                         <div class="solution-card">
-                            <h3 class="display-5">24/7 Customer Support</h3>
-                            <p>
-                                Melayani dan membantu kapan pun, 24 jam setiap
-                                hari
-                            </p>
+                            <div class="solution-card-icon">
+                                <i class="fa fa-globe"></i>
+                            </div>
+                            <div class="solution-card-body">
+                                <h3>Wide Coverage</h3>
+                                <p>
+                                    Jaringan luas yang melayani pengiriman ke
+                                    seluruh wilayah Indonesia.
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Card End -->
+                        <div class="solution-card">
+                            <div class="solution-card-icon">
+                                <i class="fa fa-headphones"></i>
+                            </div>
+                            <div class="solution-card-body">
+                                <h3>24/7 Support</h3>
+                                <p>
+                                    Melayani dan membantu kapan pun, 24 jam
+                                    setiap hari tanpa libur.
+                                </p>
+                            </div>
                         </div>
                         <!-- Card End -->
                     </div>

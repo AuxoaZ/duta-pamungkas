@@ -118,8 +118,8 @@
                 </p>
                 <nav class="footer-nav order-1 order-md-2">
                     <ul>
-                        <li><a href="#">Privacy Policy </a></li>
-                        <li><a href="#">Terms & Condition</a></li>
+                        <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li>
+                        <li><a href="{{ route('terms-condition') }}">Terms & Condition</a></li>
                     </ul>
                 </nav>
             </div>

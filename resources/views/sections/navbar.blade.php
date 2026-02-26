@@ -1,4 +1,32 @@
 <nav>
+    <!-- Top Bar Start -->
+    <div class="top-bar">
+        <div class="container d-flex align-items-center justify-content-between">
+            <div class="top-bar-left d-flex align-items-center gap-4">
+                <a href="mailto:dputacargo@gmail.com" class="top-bar-item">
+                    <i class="fa-solid fa-envelope"></i>
+                    <span>dputacargo@gmail.com</span>
+                </a>
+                <a href="tel:+6285138568164" class="top-bar-item">
+                    <i class="fa-solid fa-phone"></i>
+                    <span>+62 851-3856-8164</span>
+                </a>
+            </div>
+            <div class="top-bar-right d-none d-md-flex align-items-center gap-3">
+                <a href="https://api.whatsapp.com/send?phone=6285138568164" class="top-bar-social" aria-label="WhatsApp">
+                    <i class="fa-brands fa-whatsapp"></i>
+                </a>
+                <a href="#" class="top-bar-social" aria-label="Instagram">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+                <a href="#" class="top-bar-social" aria-label="Facebook">
+                    <i class="fa-brands fa-facebook-f"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- Top Bar End -->
+
     <!-- Header Start -->
     <header class="header header-3">
         <div class="header-wrapper">
