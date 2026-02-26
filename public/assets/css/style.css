@@ -3889,6 +3889,48 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
     max-width: 650px;
     padding: 180px 0 120px;
 }
+.hero-slide-media {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding-top: 80px;
+}
+.hero-slide-media::before,
+.hero-slide-media::after {
+    position: absolute;
+    content: "";
+    width: 505px;
+    height: 1612px;
+    transform: rotate(-28deg);
+    background-color: var(--primary);
+    top: -50%;
+    left: 50%;
+    z-index: -1;
+}
+.hero-slide-media::after {
+    width: 560px;
+    opacity: 0.25;
+    left: 37%;
+    transform: rotate(-28deg);
+}
+.hero-slide-media img {
+    position: relative;
+    z-index: 1;
+    max-height: 700px;
+    width: auto;
+    object-fit: contain;
+    filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.3));
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .hero-slide-media img {
+        max-height: 550px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .hero-slide-media img {
+        max-height: 650px;
+    }
+}
 .hero-slide-content span.lead {
     display: inline-block;
     color: var(--white);
