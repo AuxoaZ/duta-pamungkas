@@ -4625,6 +4625,94 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
         height: 180px;
     }
 }
+
+/*! Goods Type Section */
+.goods-type-sec {
+    background-color: #f8fafa;
+}
+.goods-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+.goods-card {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 32px 28px;
+    border: 1px solid #e8eaee;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.03);
+    transition: all 0.35s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+.goods-card:hover {
+    border-color: var(--primary);
+    box-shadow: 0 8px 30px rgba(4, 120, 87, 0.1);
+    transform: translateY(-5px);
+}
+.goods-card-icon {
+    width: 58px;
+    height: 58px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(var(--primary-rgb), 0.1);
+    border-radius: 14px;
+    color: var(--primary);
+    font-size: 24px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+}
+.goods-card:hover .goods-card-icon {
+    background: var(--primary);
+    color: var(--white);
+}
+.goods-card-content h3 {
+    font-family: var(--font-family-headings, "Onest", sans-serif);
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--headings-color);
+    margin: 0 0 10px;
+    line-height: 1.35;
+}
+.goods-card-content > p {
+    font-size: 14.5px;
+    line-height: 1.7;
+    color: var(--mute);
+    margin: 0 0 18px;
+}
+.goods-highlights {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.goods-highlights li {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--primary);
+    background: rgba(var(--primary-rgb), 0.08);
+    border-radius: 20px;
+    padding: 5px 14px;
+    white-space: nowrap;
+}
+@media (max-width: 991.98px) {
+    .goods-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 575.98px) {
+    .goods-grid {
+        grid-template-columns: 1fr;
+    }
+    .goods-card {
+        padding: 24px 20px;
+    }
+}
+
 @media (max-width: 1199.98px) {
     .services-3 {
         padding-bottom: 30px;
