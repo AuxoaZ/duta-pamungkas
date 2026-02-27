@@ -19,7 +19,7 @@
                                     </p>
                                     <div class="hero-highlight-badge">
                                         <i class="fa-solid fa-truck-fast"></i>
-                                        <strong>GRATIS</strong> Jemput Paket ke Seluruh <strong>DI Yogyakarta</strong>
+                                        <strong>GRATIS</strong> Jemput Paket ke Seluruh Wilayah <strong>D.I.Yogyakarta</strong>
                                     </div>
                                     <div class="d-sm-flex align-items-center">
                                         <a href="https://api.whatsapp.com/send?phone=6285138568164"
@@ -57,7 +57,7 @@
                                     </p>
                                     <div class="hero-highlight-badge">
                                         <i class="fa-solid fa-truck-fast"></i>
-                                        <strong>GRATIS</strong> Jemput Paket ke Seluruh <strong>DI Yogyakarta</strong>
+                                        <strong>GRATIS</strong> Jemput Paket ke Seluruh Wilayah <strong>Yogyakarta</strong>
                                     </div>
                                     <div class="d-sm-flex align-items-center">
                                         <a href="https://api.whatsapp.com/send?phone=6285138568164"
@@ -95,7 +95,7 @@
                                     </p>
                                     <div class="hero-highlight-badge">
                                         <i class="fa-solid fa-truck-fast"></i>
-                                        <strong>GRATIS</strong> Jemput Paket ke Seluruh <strong>DI Yogyakarta</strong>
+                                        <strong>GRATIS</strong> Jemput Paket ke Seluruh Wilayah <strong>Yogyakarta</strong>
                                     </div>
                                     <div class="d-sm-flex align-items-center">
                                         <a href="https://api.whatsapp.com/send?phone=6285138568164"

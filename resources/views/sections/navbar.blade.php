@@ -39,7 +39,7 @@
                                 src="https://www.dpat-cargo.com/frontend/assets/img/logonobg.png"
                                 alt="DPAT Cargo - Jasa Pengiriman dan Logistik"
                                 class="img-fluid"
-                                width="200px"
+                                width="150px"
                             />
                         </a>
                         <button
