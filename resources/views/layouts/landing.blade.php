@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zxx">
+<html lang="id">
     <head>
         <meta charset="utf-8" />
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
@@ -7,17 +7,38 @@
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <title>@yield('title', 'Default Title')</title>
+        <title>@yield('title', 'DPAT Cargo | Jasa Pengiriman & Logistik Terpercaya')</title>
         <meta
             name="description"
-            content="@yield('meta_description', 'Default description')"
+            content="@yield('meta_description', 'DPAT Cargo - Duta Pamungkas. Jasa logistik dan pengiriman barang terpercaya di Yogyakarta. Layanan pengiriman darat, udara, laut, dan pengiriman motor ke seluruh Indonesia.')"
         />
         <meta
             name="keywords"
-            content="@yield('meta_keywords', 'default keywords')"
+            content="@yield('meta_keywords', 'jasa logistik, pengiriman barang, cargo Yogyakarta, kirim motor, pengiriman darat, pengiriman udara, pengiriman laut, DPAT Cargo')"
         />
+        <meta name="author" content="DPAT Cargo - Duta Pamungkas" />
+        <meta name="robots" content="index, follow" />
+        <meta name="theme-color" content="#047857" />
 
+        <!-- Canonical -->
         <link rel="canonical" href="{{ url()->current() }}" />
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="{{ url()->current() }}" />
+        <meta property="og:title" content="@yield('title', 'DPAT Cargo | Jasa Pengiriman & Logistik Terpercaya')" />
+        <meta property="og:description" content="@yield('meta_description', 'DPAT Cargo - Duta Pamungkas. Jasa logistik dan pengiriman barang terpercaya di Yogyakarta.')" />
+        <meta property="og:image" content="@yield('og_image', asset('assets/images/hero-3.png'))" />
+        <meta property="og:locale" content="id_ID" />
+        <meta property="og:site_name" content="DPAT Cargo" />
+
+        <!-- Twitter Card -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="@yield('title', 'DPAT Cargo | Jasa Pengiriman & Logistik Terpercaya')" />
+        <meta name="twitter:description" content="@yield('meta_description', 'DPAT Cargo - Duta Pamungkas. Jasa logistik dan pengiriman barang terpercaya di Yogyakarta.')" />
+        <meta name="twitter:image" content="@yield('og_image', asset('assets/images/hero-3.png'))" />
+
+        <!-- Favicon -->
         <link
             rel="apple-touch-icon"
             href="{{ asset('assets/images/favicon.png') }}"
@@ -63,6 +84,40 @@
         />
         <!-- Style CSS -->
         <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" />
+
+        <!-- JSON-LD Structured Data -->
+        @yield('structured_data')
+        @hasSection('structured_data')
+        @else
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "DPAT Cargo - Duta Pamungkas",
+            "description": "Jasa logistik dan pengiriman barang terpercaya di Yogyakarta. Layanan pengiriman darat, udara, laut, dan pengiriman motor ke seluruh Indonesia.",
+            "url": "{{ url('/') }}",
+            "logo": "https://www.dpat-cargo.com/frontend/assets/img/logonobg.png",
+            "image": "{{ asset('assets/images/hero-3.png') }}",
+            "telephone": "+6285138568164",
+            "email": "dpat-cargo@gmail.com",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Yogyakarta",
+                "addressRegion": "DI Yogyakarta",
+                "addressCountry": "ID"
+            },
+            "openingHoursSpecification": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+                "opens": "00:00",
+                "closes": "23:59"
+            },
+            "sameAs": [],
+            "priceRange": "$$",
+            "serviceType": ["Pengiriman Darat", "Pengiriman Udara", "Pengiriman Laut", "Pengiriman Motor"]
+        }
+        </script>
+        @endif
     </head>
 
     <body>

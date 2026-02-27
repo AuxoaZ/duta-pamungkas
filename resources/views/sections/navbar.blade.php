@@ -3,9 +3,9 @@
     <div class="top-bar">
         <div class="container d-flex align-items-center justify-content-between">
             <div class="top-bar-left d-flex align-items-center gap-4">
-                <a href="mailto:dputacargo@gmail.com" class="top-bar-item">
+                <a href="mailto:dpat-cargo@gmail.com" class="top-bar-item">
                     <i class="fa-solid fa-envelope"></i>
-                    <span>dputacargo@gmail.com</span>
+                    <span>dpat-cargo@gmail.com</span>
                 </a>
                 <a href="tel:+6285138568164" class="top-bar-item">
                     <i class="fa-solid fa-phone"></i>
@@ -34,10 +34,10 @@
             <div class="header-nav-wrapper header-sticky">
                 <nav class="navbar navbar-expand-xl">
                     <div class="container ct-container">
-                        <a href="index.html" class="navbar-brand">
+                        <a href="{{ url('/') }}" class="navbar-brand">
                             <img
                                 src="https://www.dpat-cargo.com/frontend/assets/img/logonobg.png"
-                                alt="logo"
+                                alt="DPAT Cargo - Jasa Pengiriman dan Logistik"
                                 class="img-fluid"
                                 width="200px"
                             />
@@ -76,10 +76,10 @@
                         </div>
                         <div class="offcanvas offcanvas-start offcanvas-nav">
                             <div class="offcanvas-header">
-                                <a href="index.html" class="text-inverse"
+                                <a href="{{ url('/') }}" class="text-inverse"
                                     ><img
                                         src="https://www.dpat-cargo.com/frontend/assets/img/logonobg.png"
-                                        alt="Logo"
+                                        alt="DPAT Cargo Logo"
                                 /></a>
                                 <button
                                     type="button"
@@ -98,7 +98,7 @@
                                     <li class="nav-item">
                                         <a
                                             class="nav-link"
-                                            href="#"
+                                            href="{{ url('/') }}"
                                             role="button"
                                             >Beranda</a
                                         >
@@ -106,7 +106,7 @@
                                     <li class="nav-item">
                                         <a
                                             class="nav-link"
-                                            href="#service"
+                                            href="{{ url('/#service') }}"
                                             role="button"
                                             >Layanan</a
                                         >
@@ -114,7 +114,7 @@
                                     <li class="nav-item">
                                         <a
                                             class="nav-link"
-                                            href="#about"
+                                            href="{{ url('/#about') }}"
                                             role="button"
                                             >Tentang</a
                                         >
@@ -122,7 +122,7 @@
                                     <li class="nav-item">
                                         <a
                                             class="nav-link"
-                                            href="#faq"
+                                            href="{{ url('/#faq') }}"
                                             role="button"
                                             >FAQ</a
                                         >
@@ -130,7 +130,7 @@
                                     <li class="nav-item">
                                         <a
                                             class="nav-link"
-                                            href="#contact"
+                                            href="{{ url('/#contact') }}"
                                             role="button"
                                             >Kontak</a
                                         >

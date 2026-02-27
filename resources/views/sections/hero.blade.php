@@ -32,7 +32,7 @@
                             </div>
                             <div class="col-lg-7 d-none d-lg-block">
                                 <div class="hero-slide-media">
-                                    <img src="{{ asset('assets/images/hero-3.png') }}" alt="DPAT Cargo" />
+                                    <img src="{{ asset('assets/images/hero-3.png') }}" alt="Distribusi cepat untuk bisnis Anda - DPAT Cargo" />
                                 </div>
                             </div>
                         </div>
@@ -48,9 +48,9 @@
                             <div class="col-lg-5">
                                 <div class="hero-slide-content">
                                     <span class="lead text-uppercase">Aman, Cepat, Terpercaya</span>
-                                    <h1 class="display-1 text-info fw-bold">
+                                    <h2 class="display-1 text-info fw-bold">
                                         Solusi Logistik Terbaik untuk Anda
-                                    </h1>
+                                    </h2>
                                     <p>
                                         Pengiriman ke seluruh Indonesia dengan jaminan keamanan
                                         dan ketepatan waktu yang tinggi.
@@ -70,7 +70,7 @@
                             </div>
                             <div class="col-lg-7 d-none d-lg-block">
                                 <div class="hero-slide-media">
-                                    <img src="{{ asset('assets/images/hero-3.png') }}" alt="DPAT Cargo" />
+                                    <img src="{{ asset('assets/images/hero-3.png') }}" alt="Solusi logistik terbaik ke seluruh Indonesia - DPAT Cargo" />
                                 </div>
                             </div>
                         </div>
@@ -86,9 +86,9 @@
                             <div class="col-lg-5">
                                 <div class="hero-slide-content">
                                     <span class="lead text-uppercase">Partner Bisnis Andalan</span>
-                                    <h1 class="display-1 text-info fw-bold">
+                                    <h2 class="display-1 text-info fw-bold">
                                         Layanan Pengiriman Profesional
-                                    </h1>
+                                    </h2>
                                     <p>
                                         DPAT Cargo siap melayani kebutuhan distribusi bisnis Anda
                                         dengan layanan terbaik dan harga kompetitif.
@@ -108,7 +108,7 @@
                             </div>
                             <div class="col-lg-7 d-none d-lg-block">
                                 <div class="hero-slide-media">
-                                    <img src="{{ asset('assets/images/hero-3.png') }}" alt="DPAT Cargo" />
+                                    <img src="{{ asset('assets/images/hero-3.png') }}" alt="Layanan pengiriman profesional oleh DPAT Cargo Yogyakarta" />
                                 </div>
                             </div>
                         </div>

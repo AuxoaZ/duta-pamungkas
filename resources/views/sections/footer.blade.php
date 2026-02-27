@@ -25,11 +25,11 @@
             <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
                 <div class="footer-widget about-footer">
                     <div class="f-logo">
-                        <a href="index.html"
+                        <a href="{{ url('/') }}"
                             ><img
                                 src="https://www.dpat-cargo.com/frontend/assets/img/logonobg.png"
                                 width="200px"
-                                alt="Logo"
+                                alt="DPAT Cargo - Jasa Pengiriman dan Logistik Terpercaya"
                         /></a>
                     </div>
                     <p>

@@ -9,7 +9,7 @@
                 <img
                   src="{{ asset('assets/images/about-ft.jpg') }}"
                   class="img-fluid round"
-                  alt="about"
+                  alt="Gudang logistik DPAT Cargo di Yogyakarta"
                 />
                 <div class="experien-stat">
                   <p class="text-info m-0">
@@ -26,12 +26,12 @@
                 <img
                   class="round img-fluid"
                   src="{{ asset('assets/images/about-ft2.png') }}"
-                  alt="about"
+                  alt="Tim operasional DPAT Cargo"
                 />
-                <img class="img-fluid" src="{{ asset('assets/images/about-ft3.png') }}" alt="about" />
+                <img class="img-fluid" src="{{ asset('assets/images/about-ft3.png') }}" alt="Layanan pengiriman DPAT Cargo" />
               </div>
               <div class="ab-stat2">
-                <img src="{{ asset('assets/images/ab-st2.png') }}" alt="" />
+                <img src="{{ asset('assets/images/ab-st2.png') }}" alt="" role="presentation" />
               </div>
             </div>
           </div>
@@ -75,7 +75,7 @@
                 >
                   <div class="d-sm-flex gap-4 mb-3">
                     <div class="tab-img">
-                      <img src="https://www.dpat-cargo.com/frontend/assets/img/truck-dpat.jpg" alt="tab" class="rounded-4 img-fluid" />
+                      <img src="https://www.dpat-cargo.com/frontend/assets/img/truck-dpat.jpg" alt="Armada truk DPAT Cargo untuk pengiriman barang" class="rounded-4 img-fluid" />
                     </div>
                     <div class="tab-txt">
                       <p>

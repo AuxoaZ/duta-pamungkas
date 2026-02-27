@@ -7,6 +7,7 @@
     <img
         src="{{ asset('assets/images/stat-bg-truck.png') }}"
         alt=""
+        role="presentation"
         class="jarallax-img"
     />
     <div class="container">

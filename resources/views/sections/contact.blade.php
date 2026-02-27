@@ -38,7 +38,7 @@
             <!-- Contact Info Card -->
             <div class="col-lg-5">
                 <div class="card border-0 shadow-sm h-100 p-4 rounded-4">
-                    <h4 class="fw-bold mb-4">Informasi Kontak</h4>
+                    <h3 class="fw-bold mb-4">Informasi Kontak</h3>
 
                     <div class="mb-4">
                         <small class="text-muted d-block">Alamat</small>
@@ -82,6 +82,7 @@
                         allowfullscreen=""
                         loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade"
+                        title="Lokasi CV. Duta Pamungkas Abadi Translogistik di Google Maps"
                     ></iframe>
                 </div>
             </div>

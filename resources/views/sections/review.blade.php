@@ -1,4 +1,4 @@
-<section class="review-sec3 bg-shade sec-padding">
+﻿<section class="review-sec3 bg-shade sec-padding">
     <div class="container">
         <div class="sec-intro mx-auto text-center">
             <span class="sub-title fadeInUp">
@@ -58,7 +58,7 @@
                                         ></a>
                                     </div>
                                     <div
-                                        class="rev-icon icon bg-primary position-absolute"
+                                        class="rev-icon icon bg-primary position-absolute" aria-hidden="true"
                                     >
                                         <img
                                             src="{{
@@ -82,7 +82,7 @@
                                         />
                                     </div> -->
                                     <div class="author-info">
-                                        <h3 class="mb-0 display-5">Tiwi</h3>
+                                        <p class="mb-0 display-5 fw-bold">Tiwi</p>
                                         <span>CEO Gamping Square</span>
                                     </div>
                                 </div>
@@ -116,7 +116,7 @@
                                         ></a>
                                     </div>
                                     <div
-                                        class="rev-icon icon bg-primary position-absolute"
+                                        class="rev-icon icon bg-primary position-absolute" aria-hidden="true"
                                     >
                                         <img
                                             src="{{
@@ -140,7 +140,7 @@
                                         />
                                     </div> -->
                                     <div class="author-info">
-                                        <h3 class="mb-0 display-5">Mas Adit</h3>
+                                        <p class="mb-0 display-5 fw-bold">Mas Adit</p>
                                         <span>Direktur Ekspedisi</span>
                                     </div>
                                 </div>
@@ -158,7 +158,7 @@
                                     </p>
                                     <div class="ratings">
                                         <a
-                                            href="https://maps.app.goo.gl/MGzpdPV2eGpyV7cf7"
+                                            href="https://maps.app.goo.gl/MGzpdPV2eGpyV7cf7" rel="noopener noreferrer" target="_blank"
                                             ><i class="fa fa-star"></i
                                         ></a>
                                         <a href="#"
@@ -175,7 +175,7 @@
                                         ></a>
                                     </div>
                                     <div
-                                        class="rev-icon icon bg-primary position-absolute"
+                                        class="rev-icon icon bg-primary position-absolute" aria-hidden="true"
                                     >
                                         <img
                                             src="{{
@@ -199,9 +199,9 @@
                                         />
                                     </div> -->
                                     <div class="author-info">
-                                        <h3 class="mb-0 display-5">
+                                        <p class="mb-0 display-5 fw-bold">
                                             Kevin Saputra
-                                        </h3>
+                                        </p>
                                         <span>Review dari Google Maps</span>
                                     </div>
                                 </div>
@@ -215,11 +215,11 @@
                                 >
                                     <p>
                                         "gilee surabaya cuman 1500/kg 2 hari
-                                        sampai 🤩"
+                                        sampai ðŸ¤©"
                                     </p>
                                     <div class="ratings">
                                         <a
-                                            href="https://maps.app.goo.gl/fNtJu4NHdRegQ5KX9"
+                                            href="https://maps.app.goo.gl/fNtJu4NHdRegQ5KX9" rel="noopener noreferrer" target="_blank"
                                             ><i class="fa fa-star"></i
                                         ></a>
                                         <a href="#"
@@ -236,7 +236,7 @@
                                         ></a>
                                     </div>
                                     <div
-                                        class="rev-icon icon bg-primary position-absolute"
+                                        class="rev-icon icon bg-primary position-absolute" aria-hidden="true"
                                     >
                                         <img
                                             src="{{
@@ -260,7 +260,7 @@
                                         />
                                     </div> -->
                                     <div class="author-info">
-                                        <h3 class="mb-0 display-5">Bryan</h3>
+                                        <p class="mb-0 display-5 fw-bold">Bryan</p>
                                         <span>Review dari Google Maps</span>
                                     </div>
                                 </div>
@@ -275,11 +275,11 @@
                                     <p>
                                         "rekomended ini mah buat pengusaha2
                                         besar yg membutuhkan ekspedisi sperti
-                                        saya. team nya juga sat set. 👍👍"
+                                        saya. team nya juga sat set. ðŸ‘ðŸ‘"
                                     </p>
                                     <div class="ratings">
                                         <a
-                                            href="https://maps.app.goo.gl/W2SPgyQhPTQEC55h7"
+                                            href="https://maps.app.goo.gl/W2SPgyQhPTQEC55h7" rel="noopener noreferrer" target="_blank"
                                             ><i class="fa fa-star"></i
                                         ></a>
                                         <a href="#"
@@ -296,7 +296,7 @@
                                         ></a>
                                     </div>
                                     <div
-                                        class="rev-icon icon bg-primary position-absolute"
+                                        class="rev-icon icon bg-primary position-absolute" aria-hidden="true"
                                     >
                                         <img
                                             src="{{
@@ -320,9 +320,9 @@
                                         />
                                     </div> -->
                                     <div class="author-info">
-                                        <h3 class="mb-0 display-5">
+                                        <p class="mb-0 display-5 fw-bold">
                                             Denok Deblong
-                                        </h3>
+                                        </p>
                                         <span>Review dari Google Maps</span>
                                     </div>
                                 </div>

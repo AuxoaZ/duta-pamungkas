@@ -24,3 +24,26 @@ Route::get('/privacy-policy', function () {
 Route::get('/terms-condition', function () {
     return view('terms-condition');
 })->name('terms-condition');
+
+Route::get('/sitemap.xml', function () {
+    $pages = [
+        ['url' => url('/'), 'priority' => '1.0', 'changefreq' => 'weekly'],
+        ['url' => url('/privacy-policy'), 'priority' => '0.3', 'changefreq' => 'yearly'],
+        ['url' => url('/terms-condition'), 'priority' => '0.3', 'changefreq' => 'yearly'],
+    ];
+
+    $xml = '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
+    $xml .= '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' . "\n";
+
+    foreach ($pages as $page) {
+        $xml .= '  <url>' . "\n";
+        $xml .= '    <loc>' . $page['url'] . '</loc>' . "\n";
+        $xml .= '    <changefreq>' . $page['changefreq'] . '</changefreq>' . "\n";
+        $xml .= '    <priority>' . $page['priority'] . '</priority>' . "\n";
+        $xml .= '  </url>' . "\n";
+    }
+
+    $xml .= '</urlset>';
+
+    return response($xml, 200, ['Content-Type' => 'application/xml']);
+});

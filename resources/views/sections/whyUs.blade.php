@@ -6,13 +6,13 @@
                     <div class="sol-media d-flex gap-5">
                         <img
                             src="{{ asset('assets/images/sol1.jpg') }}"
-                            alt="Solution"
+                            alt="Gudang logistik DPAT Cargo"
                             class="img-fluid round"
                             width="230"
                         />
                         <img
                             src="{{ asset('assets/images/serv-truck.png') }}"
-                            alt="Solution"
+                            alt="Armada truk pengiriman DPAT Cargo"
                             class="img-fluid round"
                             width="225"
                         />

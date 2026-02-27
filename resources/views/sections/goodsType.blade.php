@@ -31,120 +31,173 @@
             </p>
         </div>
 
-        <div class="goods-grid">
-            <!-- Motor -->
-            <div class="goods-card">
-                <div class="goods-card-icon">
-                    <i class="fas fa-motorcycle"></i>
-                </div>
-                <div class="goods-card-content">
-                    <h3>Kendaraan Bermotor</h3>
-                    <p>
-                        Pengiriman sepeda motor ke seluruh Indonesia dengan
-                        packing kayu, bubble wrap, dan asuransi full coverage.
-                    </p>
-                    <ul class="goods-highlights">
-                        <li>Packing kayu kokoh</li>
-                        <li>Asuransi penuh</li>
-                        <li>Antar-jemput gratis</li>
-                    </ul>
+        <div class="goods-slider-wrapper position-relative">
+            <div class="swiper goods-swiper">
+                <div class="swiper-wrapper">
+                    <!-- Motor -->
+                    <div class="swiper-slide">
+                        <div class="goods-card">
+                            <div class="goods-card-icon">
+                                <i class="fas fa-motorcycle"></i>
+                            </div>
+                            <div class="goods-card-content">
+                                <h3>Kendaraan Bermotor</h3>
+                                <p>
+                                    Pengiriman sepeda motor ke seluruh Indonesia dengan
+                                    packing kayu, bubble wrap, dan asuransi full coverage.
+                                </p>
+                                <ul class="goods-highlights">
+                                    <li>Packing kayu kokoh</li>
+                                    <li>Asuransi penuh</li>
+                                    <li>Antar-jemput gratis</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Elektronik -->
+                    <div class="swiper-slide">
+                        <div class="goods-card">
+                            <div class="goods-card-icon">
+                                <i class="fas fa-laptop"></i>
+                            </div>
+                            <div class="goods-card-content">
+                                <h3>Barang Elektronik</h3>
+                                <p>
+                                    Penanganan khusus untuk perangkat elektronik seperti
+                                    laptop, TV, dan peralatan rumah tangga agar tetap aman.
+                                </p>
+                                <ul class="goods-highlights">
+                                    <li>Extra bubble wrap</li>
+                                    <li>Label fragile</li>
+                                    <li>Handling khusus</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Dokumen & Paket -->
+                    <div class="swiper-slide">
+                        <div class="goods-card">
+                            <div class="goods-card-icon">
+                                <i class="fas fa-file-alt"></i>
+                            </div>
+                            <div class="goods-card-content">
+                                <h3>Dokumen & Paket</h3>
+                                <p>
+                                    Pengiriman dokumen penting dan paket kecil dengan
+                                    cepat dan tepat waktu, dilengkapi tracking real-time.
+                                </p>
+                                <ul class="goods-highlights">
+                                    <li>Same-day delivery</li>
+                                    <li>Tracking real-time</li>
+                                    <li>Kerahasiaan terjaga</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Furniture -->
+                    <div class="swiper-slide">
+                        <div class="goods-card">
+                            <div class="goods-card-icon">
+                                <i class="fas fa-couch"></i>
+                            </div>
+                            <div class="goods-card-content">
+                                <h3>Furniture & Barang Besar</h3>
+                                <p>
+                                    Pengiriman furniture, perabot rumah, dan barang berukuran
+                                    besar dengan armada yang sesuai dan perlindungan optimal.
+                                </p>
+                                <ul class="goods-highlights">
+                                    <li>Armada besar tersedia</li>
+                                    <li>Packing profesional</li>
+                                    <li>Asuransi kerusakan</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Makanan & Produk UMKM -->
+                    <div class="swiper-slide">
+                        <div class="goods-card">
+                            <div class="goods-card-icon">
+                                <i class="fas fa-box-open"></i>
+                            </div>
+                            <div class="goods-card-content">
+                                <h3>Produk UMKM & Makanan</h3>
+                                <p>
+                                    Mendukung pelaku UMKM dengan pengiriman produk dan
+                                    makanan kering secara aman ke seluruh nusantara.
+                                </p>
+                                <ul class="goods-highlights">
+                                    <li>Tarif kompetitif</li>
+                                    <li>Packing rapi</li>
+                                    <li>Pengiriman cepat</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Bahan Bangunan -->
+                    <div class="swiper-slide">
+                        <div class="goods-card">
+                            <div class="goods-card-icon">
+                                <i class="fas fa-tools"></i>
+                            </div>
+                            <div class="goods-card-content">
+                                <h3>Bahan Bangunan & Industri</h3>
+                                <p>
+                                    Pengiriman material bangunan, mesin, dan perlengkapan
+                                    industri dengan armada kargo yang kuat dan handal.
+                                </p>
+                                <ul class="goods-highlights">
+                                    <li>Kapasitas besar</li>
+                                    <li>Armada kargo khusus</li>
+                                    <li>Jadwal fleksibel</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
-            <!-- Elektronik -->
-            <div class="goods-card">
-                <div class="goods-card-icon">
-                    <i class="fas fa-laptop"></i>
-                </div>
-                <div class="goods-card-content">
-                    <h3>Barang Elektronik</h3>
-                    <p>
-                        Penanganan khusus untuk perangkat elektronik seperti
-                        laptop, TV, dan peralatan rumah tangga agar tetap aman.
-                    </p>
-                    <ul class="goods-highlights">
-                        <li>Extra bubble wrap</li>
-                        <li>Label fragile</li>
-                        <li>Handling khusus</li>
-                    </ul>
-                </div>
-            </div>
+            <!-- Navigation Arrows -->
+            <div class="goods-nav-prev"><i class="fa fa-chevron-left"></i></div>
+            <div class="goods-nav-next"><i class="fa fa-chevron-right"></i></div>
 
-            <!-- Dokumen & Paket -->
-            <div class="goods-card">
-                <div class="goods-card-icon">
-                    <i class="fas fa-file-alt"></i>
-                </div>
-                <div class="goods-card-content">
-                    <h3>Dokumen & Paket</h3>
-                    <p>
-                        Pengiriman dokumen penting dan paket kecil dengan
-                        cepat dan tepat waktu, dilengkapi tracking real-time.
-                    </p>
-                    <ul class="goods-highlights">
-                        <li>Same-day delivery</li>
-                        <li>Tracking real-time</li>
-                        <li>Kerahasiaan terjaga</li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Furniture -->
-            <div class="goods-card">
-                <div class="goods-card-icon">
-                    <i class="fas fa-couch"></i>
-                </div>
-                <div class="goods-card-content">
-                    <h3>Furniture & Barang Besar</h3>
-                    <p>
-                        Pengiriman furniture, perabot rumah, dan barang berukuran
-                        besar dengan armada yang sesuai dan perlindungan optimal.
-                    </p>
-                    <ul class="goods-highlights">
-                        <li>Armada besar tersedia</li>
-                        <li>Packing profesional</li>
-                        <li>Asuransi kerusakan</li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Makanan & Produk UMKM -->
-            <div class="goods-card">
-                <div class="goods-card-icon">
-                    <i class="fas fa-box-open"></i>
-                </div>
-                <div class="goods-card-content">
-                    <h3>Produk UMKM & Makanan</h3>
-                    <p>
-                        Mendukung pelaku UMKM dengan pengiriman produk dan
-                        makanan kering secara aman ke seluruh nusantara.
-                    </p>
-                    <ul class="goods-highlights">
-                        <li>Tarif kompetitif</li>
-                        <li>Packing rapi</li>
-                        <li>Pengiriman cepat</li>
-                    </ul>
-                </div>
-            </div>
-
-            <!-- Bahan Bangunan -->
-            <div class="goods-card">
-                <div class="goods-card-icon">
-                    <i class="fas fa-tools"></i>
-                </div>
-                <div class="goods-card-content">
-                    <h3>Bahan Bangunan & Industri</h3>
-                    <p>
-                        Pengiriman material bangunan, mesin, dan perlengkapan
-                        industri dengan armada kargo yang kuat dan handal.
-                    </p>
-                    <ul class="goods-highlights">
-                        <li>Kapasitas besar</li>
-                        <li>Armada kargo khusus</li>
-                        <li>Jadwal fleksibel</li>
-                    </ul>
-                </div>
-            </div>
+            <!-- Pagination -->
+            <div class="goods-pagination"></div>
         </div>
     </div>
 </section>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    new Swiper('.goods-swiper', {
+        slidesPerView: 1,
+        spaceBetween: 24,
+        loop: true,
+        autoplay: {
+            delay: 4000,
+            disableOnInteraction: false,
+        },
+        pagination: {
+            el: '.goods-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.goods-nav-next',
+            prevEl: '.goods-nav-prev',
+        },
+        breakpoints: {
+            576: {
+                slidesPerView: 2,
+            },
+            992: {
+                slidesPerView: 3,
+            },
+        },
+    });
+});
+</script>

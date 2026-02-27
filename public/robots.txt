@@ -1,2 +1,6 @@
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /storage/
+Disallow: /vendor/
+
+Sitemap: https://www.dpat-cargo.com/sitemap.xml

@@ -118,7 +118,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="faq-accordion rounded-4" id="tv-accordion">
+                <div class="faq-accordion rounded-4" id="tv-accordion-2">
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingFour">
                             <button
@@ -137,7 +137,7 @@
                             id="collapseFour"
                             class="accordion-collapse collapse"
                             aria-labelledby="headingFour"
-                            data-bs-parent="#tv-accordion"
+                            data-bs-parent="#tv-accordion-2"
                         >
                             <div class="accordion-body">
                                 <p>
@@ -158,22 +158,21 @@
                                 aria-expanded="false"
                                 aria-controls="collapseFive"
                             >
-                                How do I get in touch with customer support?
+                                Bagaimana cara menghubungi layanan pelanggan?
                             </button>
                         </h2>
                         <div
                             id="collapseFive"
                             class="accordion-collapse collapse"
                             aria-labelledby="headingFive"
-                            data-bs-parent="#tv-accordion"
+                            data-bs-parent="#tv-accordion-2"
                         >
                             <div class="accordion-body">
                                 <p>
-                                    Meeting project deadlines is a top priority.
-                                    We understand the importance of timely
-                                    delivery and have established a
-                                    comprehensive approach to ensure that all
-                                    projects are completed
+                                    Anda dapat menghubungi tim kami melalui WhatsApp
+                                    di nomor 0851-3856-8164 atau melalui email di
+                                    dpat-cargo@gmail.com. Layanan pelanggan kami
+                                    tersedia 24/7 untuk membantu Anda.
                                 </p>
                             </div>
                         </div>
@@ -188,22 +187,22 @@
                                 aria-expanded="false"
                                 aria-controls="collapseSix"
                             >
-                                What if my shipment is delayed or lost?
+                                Bagaimana jika pengiriman saya tertunda atau hilang?
                             </button>
                         </h2>
                         <div
                             id="collapseSix"
                             class="accordion-collapse collapse"
                             aria-labelledby="headingSix"
-                            data-bs-parent="#tv-accordion"
+                            data-bs-parent="#tv-accordion-2"
                         >
                             <div class="accordion-body">
                                 <p>
-                                    Meeting project deadlines is a top priority.
-                                    We understand the importance of timely
-                                    delivery and have established a
-                                    comprehensive approach to ensure that all
-                                    projects are completed
+                                    Kami berkomitmen untuk ketepatan waktu pengiriman.
+                                    Jika terjadi keterlambatan atau kehilangan, tim kami
+                                    akan segera menindaklanjuti dan memberikan solusi
+                                    terbaik termasuk penggantian sesuai kebijakan asuransi
+                                    yang berlaku.
                                 </p>
                             </div>
                         </div>

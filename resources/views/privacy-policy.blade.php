@@ -94,7 +94,7 @@
                 </p>
                 <ul>
                     <li><strong>WhatsApp:</strong> <a href="https://api.whatsapp.com/send?phone=6285138568164">+62 851-3856-8164</a></li>
-                    <li><strong>Email:</strong> <a href="mailto:info@dpatcargo.com">info@dpatcargo.com</a></li>
+                    <li><strong>Email:</strong> <a href="mailto:dpat-cargo@gmail.com">dpat-cargo@gmail.com</a></li>
                 </ul>
             </div>
         </div>

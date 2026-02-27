@@ -33,7 +33,7 @@
                         <span class="count">01</span>
                         <img
                             src="{{ asset('assets/images/pros1.png') }}"
-                            alt="Icon"
+                            alt="Ikon hubungi kontak DPAT Cargo"
                         />
                     </span>
                     <h3 class="display-4">Hubungi Kontak Kami</h3>
@@ -49,7 +49,7 @@
                         <span class="count">02</span>
                         <img
                             src="{{ asset('assets/images/pros2.png') }}"
-                            alt="Icon"
+                            alt="Ikon order pickup paket"
                         />
                     </span>
                     <h3 class="display-4">Order Pickup Paket</h3>
@@ -65,7 +65,7 @@
                         <span class="count">03</span>
                         <img
                             src="{{ asset('assets/images/pros3.png') }}"
-                            alt="Icon"
+                            alt="Ikon share lokasi pickup"
                         />
                     </span>
                     <h3 class="display-4">Share Lokasi Pickup</h3>
