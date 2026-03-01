@@ -4050,7 +4050,7 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
 }
 @media (max-width: 991.98px) {
     .hero-slide-content {
-        padding: 150px 0 100px;
+        padding: 50px 0 20px;
     }
     .hero-slide-content h1 {
         font-size: 50px;
@@ -4076,7 +4076,8 @@ section.promo-sec .breadcrumb-item + .breadcrumb-item:before {
 }
 @media (max-width: 575.98px) {
     .hero-slide-content {
-        padding: 120px 0 70px;
+        padding: 200px 0 80px;
+        height: 85vh;
     }
     .hero-slide-content h1 {
         font-size: 30px;

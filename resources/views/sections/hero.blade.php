@@ -17,32 +17,43 @@
                                     <span class="lead text-uppercase"
                                         >Partner Bisnis Andalan</span
                                     >
-                                    <h2 class="display-1 text-info fw-bold">
-                                        Layanan Pengiriman Profesional
-                                    </h2>
+                                    <h3 class="text-info fw-bold d-md-none">
+                                        Gratis Jemput Paket Tanpa Minimal
+                                        Transaksi
+                                    </h3>
+
+                                    <h1
+                                        class="text-info fw-bold d-none d-md-block"
+                                    >
+                                        Gratis Jemput Paket Tanpa Minimal
+                                        Transaksi
+                                    </h1>
                                     <p>
-                                        DPAT Cargo siap melayani kebutuhan
-                                        distribusi bisnis Anda dengan layanan
-                                        terbaik dan harga kompetitif.
+                                        Melayani kiriman dokumen, barang,
+                                        pindahan kantor/rumah, domestik dan luar
+                                        negeri.
                                     </p>
                                     <div class="hero-highlight-badge fs-6">
-                                        <!-- <i class="fa-solid fa-truck-fast"></i> -->
-
                                         <span style="white-space: nowrap">
                                             <strong>GRATIS</strong> Jemput Paket
                                             se-<strong>Jogja</strong>
                                         </span>
                                     </div>
-                                    <div class="d-sm-flex align-items-center">
+                                    <!-- <div
+                                        class="d-flex align-items-center justify-content-between gap-4"
+                                    >
                                         <a
                                             href="https://api.whatsapp.com/send?phone=6285138568164"
                                             class="btn btn-primary btn-hover"
                                         >
                                             Hubungi Kami
-                                            <i class="fa fa-arrow-right"></i>
+                                            <i
+                                                class="fa-solid fa-arrow-right"
+                                            ></i>
+
                                             <span></span>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                             <div class="col-lg-7 d-none d-lg-block">
